@@ -128,7 +128,7 @@ class FeedActivity : AppCompatActivity() {
 
 
 
-                        // göt deliği göt deliği göt deliği
+                        
 
                     }
 
